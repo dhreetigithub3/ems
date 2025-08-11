@@ -30,7 +30,7 @@ education/
 ### Local Development
 ```bash
 # Clone and setup
-git clone <your-repo-url>
+git clone https://github.com/dhreetigithub3/ems.git
 cd education
 
 # Install dependencies
@@ -113,3 +113,4 @@ mvn spring-boot:run -Dspring.profiles.active=dev
 
 ## 📞 Support
 For issues or questions, please open a GitHub issue or contact the development team.
+
